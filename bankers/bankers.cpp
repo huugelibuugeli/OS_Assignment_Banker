@@ -3,9 +3,6 @@
 #include<string>
 #include<fstream>
 
-const int n = 5; // number of processes
-const int m = 3; // number of resource types
-
 void readInput(const std::string&, std::vector<int>&, 
     std::vector<std::vector<int>>&, std::vector<std::vector<int>>&);
 
