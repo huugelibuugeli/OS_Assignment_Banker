@@ -8,7 +8,6 @@
 - Sample input: `bankers/input.txt`
 
 Build and run
-- Compile with C++17:
 ```bash
 g++ bankers/bankers.cpp
 ```
